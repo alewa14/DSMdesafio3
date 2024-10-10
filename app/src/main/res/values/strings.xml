@@ -1,0 +1,29 @@
+<resources>
+    <!-- Cadenas de texto generales -->
+    <string name="app_name">Recursos bibliograficos</string>
+    <string name="task_list_title">Lista de Tareas</string>
+    <string name="task_detail_title">Detalles del Recurso</string>
+
+    <!-- Botones -->
+    <string name="save_button_label">Guardar</string>
+    <string name="delete_button_label">Eliminar</string>
+
+    <!-- Hints -->
+    <string name="title_hint">Título</string>
+    <string name="description_hint">Descripción</string>
+
+    <!-- Descripciones -->
+    <string name="add_task_button_description">Agregar nueva tarea</string>
+    <string name="due_date_label">Tipo:</string>
+    <string name="priority_label">Link del recurso:</string>
+    <string name="imagen_label">Imagen URL:</string>
+
+    <!-- Mensajes -->
+    <string name="task_updated_message">actualizado exitosamente</string>
+    <string name="task_deleted_message">eliminado exitosamente</string>
+    <string name="invalid_task_id_error">Error</string>
+    <string name="title_activity_task_detail">Detalles del Recurso</string>
+    <string name="title_label">Titulo :</string>
+    <string name="description_label">Descripcion :</string>
+
+</resources>
